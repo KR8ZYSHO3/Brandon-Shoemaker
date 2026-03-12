@@ -9,7 +9,7 @@
   </p>
 
   <p>
-    <strong>Location:</strong> Cincinnati, OH (Open to Remote • Relocation with assistance)
+    <strong>Location:</strong> Logan, OH (Open to Remote • Relocation with assistance)
   </p>
 
   <p>
