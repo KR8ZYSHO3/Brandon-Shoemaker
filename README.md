@@ -41,7 +41,11 @@
   <img src="https://img.shields.io/badge/PLC%20Ladder-FF4500?style=flat&logoColor=white" alt="PLC">
   <img src="https://img.shields.io/badge/OPC%20Communication-4682B4?style=flat&logoColor=white" alt="OPC">
 </div>
-
+<div align="center">
+  <img src="https://img.shields.io/badge/U.S.%20Navy%20Veteran-Honorably%20Served-001F3F?style=for-the-badge&logo=americanairlines&logoColor=white" alt="Veteran">
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-brightgreen?style=for-the-badge" alt="Remote">
+  <img src="https://img.shields.io/badge/Location-Cincinnati%2C%20OH-FF4500?style=flat&logo=googlemaps" alt="Cincinnati">
+</div>
 - **Automation & Controls**: ABB 800xA/800Xa, QCS, CD Control Optimization, MCD LVC, PLC, OPC
 - **Software & Web**: Full-stack (React + Node.js), Python scripting, REST APIs, backend architecture
 - **AI/Emerging**: Proprietary AI engine, LLM integration, ML concepts for engineering workflows
