@@ -1,29 +1,27 @@
-<!-- Use HTML comments for notes that won't show -->
-
 <div align="center">
-
-  <!-- Animated/typing header if you want flair later; optional -->
-  <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Electronics+%26+Automation+Engineer;Full-Stack+Developer;AI+Enthusiast;U.S.+Navy+Veteran) -->
 
   <h1>BRANDON SHOEMAKER</h1>
   <h3>Electronics & Automation Engineer | Software Developer | AI Enthusiast</h3>
 
   <p>
-    <strong>U.S. Navy Veteran</strong> • 20+ years in avionics, industrial controls, ABB QCS • Transitioning to full-stack & AI development • Building tools for veterans & accelerating tech workflows
+    <strong>U.S. Navy Veteran</strong> • 20+ years in avionics, industrial controls, ABB QCS<br>
+    Transitioning to full-stack & AI development • Building tools for veterans & accelerating tech workflows
+  </p>
+
+  <p>
+    <strong>Location:</strong> Cincinnati, OH (Open to Remote • Relocation with assistance)
   </p>
 
   <p>
     <a href="mailto:shoemaker.brandon35@gmail.com">
-      <img src="https://img.shields.io/badge/Email-shoemaker.brandon35@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
+      <img src="https://img.shields.io/badge/Email-shoemaker.brandon35@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-    <a href="https://www.linkedin.com/in/your-linkedin-username-here">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/brandon-shoemaker-2943a187/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://x.com/BRANDON05753667">
-      <img src="https://img.shields.io/badge/X-@BRANDON05753667-black?style=for-the-badge&logo=x" alt="X">
+      <img src="https://img.shields.io/badge/X-@BRANDON05753667-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
     </a>
-    <br>
-    <strong>Location:</strong> Cincinnati, OH (Open to Remote • Relocation with assistance)
   </p>
 
 </div>
@@ -33,8 +31,6 @@
 ### 🛠️ Core Skills & Technologies
 
 <div align="center">
-
-  <!-- Badges via shields.io - customize colors/icons as needed -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
@@ -44,7 +40,6 @@
   <img src="https://img.shields.io/badge/ABB%20800xA-005566?style=flat&logoColor=white" alt="ABB 800xA">
   <img src="https://img.shields.io/badge/PLC%20Ladder-FF4500?style=flat&logoColor=white" alt="PLC">
   <img src="https://img.shields.io/badge/OPC%20Communication-4682B4?style=flat&logoColor=white" alt="OPC">
-
 </div>
 
 - **Automation & Controls**: ABB 800xA/800Xa, QCS, CD Control Optimization, MCD LVC, PLC, OPC
@@ -63,7 +58,7 @@
 - **Proprietary AI Engine** (2024–Present)  
   Custom AI tooling to accelerate development workflows in engineering/software. Python-based • API integrations • Practical ML applications.
 
-Pinned repos coming soon—watch this space for code samples!
+Pinned repos coming soon — watch this space for code samples!
 
 ---
 
@@ -80,13 +75,14 @@ Pinned repos coming soon—watch this space for code samples!
 
 <div align="center">
 
-  <!-- Dark theme stats - radical/dark/tokyonight work well; adjust &theme= -->
-  [![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KR8ZYSHO3&show_icons=true&theme=radical&hide=issues,prs&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KR8ZYSHO3&show_icons=true&theme=tokyonight&hide=issues,prs&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KR8ZYSHO3&layout=compact&theme=radical&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KR8ZYSHO3&layout=compact&theme=tokyonight&hide_progress=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  <!-- Optional streak card - motivational -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KR8ZYSHO3&theme=radical)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KR8ZYSHO3&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+  <!-- Visitor counter (privacy-friendly) -->
+  <img src="https://profile-counter.glitch.me/KR8ZYSHO3/count.svg" alt="Profile views">
 
 </div>
 
@@ -94,11 +90,11 @@ Pinned repos coming soon—watch this space for code samples!
 
 <div align="center">
 
-  <strong>Let's build something mission-critical together.</strong>  
-  Open to collaboration on veteran tools, industrial AI, automation software, or full-stack projects.  
-  Reach out anytime — disciplined execution meets innovative code.
+  <strong>Let's build something mission-critical together.</strong><br>
+  Open to collaboration on veteran tools, industrial AI, automation software, or full-stack projects.<br>
+  Reach out anytime — discipline forged in high-stakes environments, now applied to code.
 
   <br><br>
-  <em>"Discipline forged in high-stakes environments. Now applied to bits and bytes."</em>
+  <em>"From avionics to APIs: Precision engineering meets innovative development."</em>
 
 </div>
