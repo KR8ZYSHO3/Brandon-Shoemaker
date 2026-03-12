@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/KR8ZYSHO3/KR8ZYSHO3/main/terminal.svg" alt="Terminal Animation" width="100%"/>
+
+<br/>
+
 <img src="https://shoemakerconsolidated.com/pictures/5beaa20d-aca6-47e0-9d61-1bddc71593f8.jpg" width="120" alt="Brandon Shoemaker" />
 
 # Brandon Shoemaker
